@@ -1,14 +1,14 @@
 # https://atcoder.jp/contests/abc273/tasks
 
-A / Rating : $\color{#8C8C8C}11$ / Implementation
+A / Rating : $11$ / Implementation
 
-B / Rating : $\color{#8C8C8C}178$ / Implementation, Math
+B / Rating : $178$ / Implementation, Math
 
-C / Rating : $\color{#8C8C8C}370$ / Implementation, Sorting
+C / Rating : $370$ / Implementation, Sorting
 
-D / Rating : $\color{#22741C}1119$ / Hash_Map, Implemetation
+D / Rating : $1119$ / Hash_Map, Implemetation
 
-E / Rating : $\color{#3162C7}1624$ / DFS, Stack  
+E / Rating : $1624$ / DFS, Stack  
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/273.png)
 

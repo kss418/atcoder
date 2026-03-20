@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc284/tasks
 
-A / Rating : $\color{#8C8C8C}10$ / Implementation, Math
+A / Rating : $10$ / Implementation, Math
 
-B / Rating : $\color{#8C8C8C}14$ / Implementation
+B / Rating : $14$ / Implementation
 
-C / Rating : $\color{#8C8C8C}193$ / DFS
+C / Rating : $193$ / DFS
 
-D / Rating : $\color{#8C8C8C}658$ / Number_Theory
+D / Rating : $658$ / Number_Theory
 
-E / Rating : $\color{#8C8C8C}1043$ / DFS
+E / Rating : $1043$ / DFS

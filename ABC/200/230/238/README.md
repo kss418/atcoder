@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc238/tasks
 
-A / Rating : $\color{#8C8C8C}26$ / Implementation
+A / Rating : $26$ / Implementation
 
-B / Rating : $\color{#8C8C8C}138$ / Implementation, Math
+B / Rating : $138$ / Implementation, Math
 
-C / Rating : $\color{#980000}637$ / Math
+C / Rating : $637$ / Math
 
-D / Rating : $\color{#22741C}921$ / Bit_Mask
+D / Rating : $921$ / Bit_Mask
 
-E / Rating : $\color{#24FCFF}1577$ / BFS
+E / Rating : $1577$ / BFS

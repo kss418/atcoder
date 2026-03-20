@@ -1,13 +1,13 @@
 # https://atcoder.jp/contests/abc234/tasks
 
-A / Rating : $\color{#8C8C8C}7$ / Implementation
+A / Rating : $7$ / Implementation
 
-B / Rating : $\color{#8C8C8C}46$ / Implementation
+B / Rating : $46$ / Implementation
 
-C / Rating : $\color{#8C8C8C}155$ / Implementation, Bit_Mask
+C / Rating : $155$ / Implementation, Bit_Mask
 
-D / Rating : $\color{#980000}503$ / Segment_Tree
+D / Rating : $503$ / Segment_Tree
 
-E / Rating : $\color{#22741C}899$ / DFS, Construtive, Hash_Set
+E / Rating : $899$ / DFS, Construtive, Hash_Set
 
-F / Rating : $\color{#24FCFF}1596$ / DP, Combinatorics
+F / Rating : $1596$ / DP, Combinatorics

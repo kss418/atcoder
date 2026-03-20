@@ -1,9 +1,9 @@
 # https://atcoder.jp/contests/abc268/tasks
 
-A / Rating : $\color{#8C8C8C}16$ / Implementation
+A / Rating : $16$ / Implementation
 
-B / Rating : $\color{#8C8C8C}26$ / Implementation, Strings
+B / Rating : $26$ / Implementation, Strings
 
-C / Rating : $\color{#980000}676$ / Implementation, Math
+C / Rating : $676$ / Implementation, Math
 
-D / Rating : $\color{#24FCFF}1309$ / Back_Tracking, Brutefroce, Tree_Map
+D / Rating : $1309$ / Back_Tracking, Brutefroce, Tree_Map

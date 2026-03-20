@@ -1,13 +1,13 @@
 # https://atcoder.jp/contests/abc298/tasks
 
-A / Rating : $\color{#8C8C8C}-$ / Implementation, Case_Work
+A / Rating : $-$ / Implementation, Case_Work
 
-B / Rating : $\color{#8C8C8C}-$ / Implementation
+B / Rating : $-$ / Implementation
 
-C / Rating : $\color{#980000}548$ / Tree_Set
+C / Rating : $548$ / Tree_Set
 
-D / Rating : $\color{#22741C}882$ / Deque, Math
+D / Rating : $882$ / Deque, Math
 
-E / Rating : $\color{#24FCFF}1300$ / DP, Combinatorics, Math
+E / Rating : $1300$ / DP, Combinatorics, Math
 
-F / Rating : $\color{#24FCFF}1535$ / Hash_Map, Greedy
+F / Rating : $1535$ / Hash_Map, Greedy

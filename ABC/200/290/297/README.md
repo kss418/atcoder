@@ -1,17 +1,17 @@
 # https://atcoder.jp/contests/abc297/tasks
 
-A / Rating : $\color{#8C8C8C}16$ / Implementation
+A / Rating : $16$ / Implementation
 
-B / Rating : $\color{#8C8C8C}47$ / Implementation
+B / Rating : $47$ / Implementation
 
-C / Rating : $\color{#8C8C8C}96$ / Greedy
+C / Rating : $96$ / Greedy
 
-D / Rating : $\color{#8C8C8C}273$ / Math
+D / Rating : $273$ / Math
 
-E / Rating : $\color{#22741C}1176$ / Priority_Queue, Tree_Map
+E / Rating : $1176$ / Priority_Queue, Tree_Map
 
-F / Rating : $\color{#3162C7}1990$ / Combinatorics
+F / Rating : $1990$ / Combinatorics
 
-G / Rating : $\color{#3162C7}1834$ / Sprague_Grundy_Theorem
+G / Rating : $1834$ / Sprague_Grundy_Theorem
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/297.png)

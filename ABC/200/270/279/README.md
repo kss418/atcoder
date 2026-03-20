@@ -1,11 +1,11 @@
-# https://atcoder.jp/contests/abc278/tasks
+# https://atcoder.jp/contests/abc279/tasks
 
-A / Rating : $\color{#8C8C8C}7$ / Implementation, Strings
+A / Rating : $7$ / Implementation, Strings
 
-B / Rating : $\color{#8C8C8C}39$ / Implementation
+B / Rating : $39$ / Implementation
 
-C / Rating : $\color{#8C8C8C}272$ / Strings, Sorting;
+C / Rating : $272$ / Strings, Sorting;
 
-D / Rating : $\color{#980000}766$ / Binary_Search
+D / Rating : $766$ / Binary_Search
 
-E / Rating : $\color{#24FCFF}1390$ / Ad_Hoc
+E / Rating : $1390$ / Ad_Hoc

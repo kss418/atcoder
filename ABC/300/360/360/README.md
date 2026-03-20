@@ -1,13 +1,13 @@
 # https://atcoder.jp/contests/abc360/tasks
 
-A / Rating : $\color{#8C8C8C}19$ / Implementation
+A / Rating : $19$ / Implementation
 
-B / Rating : $\color{#8C8C8C}78$ / Bruteforce
+B / Rating : $78$ / Bruteforce
 
-C / Rating : $\color{#8C8C8C}36$ / Greedy, Sorting
+C / Rating : $36$ / Greedy, Sorting
 
-D / Rating : $\color{#8C8C8C}159$ / Binary_Search
+D / Rating : $159$ / Binary_Search
 
-E / Rating : $\color{#24FCFF}1249$ / Combinatorics, Number_Theory
+E / Rating : $1249$ / Combinatorics, Number_Theory
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/360.png)

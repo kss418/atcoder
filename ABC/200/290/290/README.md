@@ -1,13 +1,13 @@
 # https://atcoder.jp/contests/abc290/tasks
 
-A / Rating : $\color{#8C8C8C}9$ / Implementation
+A / Rating : $9$ / Implementation
 
-B / Rating : $\color{#8C8C8C}22$ / Greedy
+B / Rating : $22$ / Greedy
 
-C / Rating : $\color{#8C8C8C}225$ / Implementation
+C / Rating : $225$ / Implementation
 
-D / Rating : $\color{#22741C}1036$ / Number_Theory, Math
+D / Rating : $1036$ / Number_Theory, Math
 
-E / Rating : $\color{#24FCFF}1485$ / Combinatorics, Two_Pointers
+E / Rating : $1485$ / Combinatorics, Two_Pointers
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/290.png)

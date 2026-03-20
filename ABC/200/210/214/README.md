@@ -1,9 +1,9 @@
 # https://atcoder.jp/contests/abc214/tasks
 
-A / Rating : $\color{#8C8C8C}4$ / Implementation, Case_Work
+A / Rating : $4$ / Implementation, Case_Work
 
-B / Rating : $\color{#8C8C8C}53$ / DP
+B / Rating : $53$ / DP
 
-C / Rating : $\color{#8C8C8C}319$ / Implementation
+C / Rating : $319$ / Implementation
 
-D / Rating : $\color{#24FCFF}1341$ / Sorting, Greedy, Disjoint_Set
+D / Rating : $1341$ / Sorting, Greedy, Disjoint_Set

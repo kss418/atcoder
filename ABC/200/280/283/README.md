@@ -1,9 +1,9 @@
 # https://atcoder.jp/contests/abc283/tasks
 
-A / Rating : $\color{#8C8C8C}8$ / Implementation
+A / Rating : $8$ / Implementation
 
-B / Rating : $\color{#8C8C8C}35$ / Implementation
+B / Rating : $35$ / Implementation
 
-C / Rating : $\color{#8C8C8C}88$ / Implementation
+C / Rating : $88$ / Implementation
 
-D / Rating : $\color{#980000}453$ / Stack
+D / Rating : $453$ / Stack

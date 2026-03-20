@@ -1,15 +1,15 @@
 # https://atcoder.jp/contests/abc300/tasks
 
-A / Rating : $\color{#8C8C8C}8$ / Implementation
+A / Rating : $8$ / Implementation
 
-B / Rating : $\color{#8C8C8C}353$ / Implementation
+B / Rating : $353$ / Implementation
 
-C / Rating : $\color{#980000}534$ / Implementation, DFS
+C / Rating : $534$ / Implementation, DFS
 
-D / Rating : $\color{#22741C}908$ / Number_Thoery, Euclidean, Bruteforce
+D / Rating : $908$ / Number_Thoery, Euclidean, Bruteforce
 
-E / Rating : $\color{#24FCFF}1354$ / DP, Combinatorics
+E / Rating : $1354$ / DP, Combinatorics
 
-F / Rating : $\color{#3162C7}1846$ / Binary_Search, Prefix_Sum
+F / Rating : $1846$ / Binary_Search, Prefix_Sum
 
 ![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/300.png)

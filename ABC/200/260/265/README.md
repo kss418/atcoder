@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc265/tasks
 
-A / Rating : $\color{#8C8C8C}18$ / Implementation, Math
+A / Rating : $18$ / Implementation, Math
 
-B / Rating : $\color{#8C8C8C}152$ / Implementation
+B / Rating : $152$ / Implementation
 
-C / Rating : $\color{#8C8C8C}212$ / DFS
+C / Rating : $212$ / DFS
 
-D / Rating : $\color{#980000}727$ / Binary_Search
+D / Rating : $727$ / Binary_Search
 
-E / Rating : $\color{#24FCFF}1531$ / DP, Tree_Map
+E / Rating : $1531$ / DP, Tree_Map

@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc344/tasks
 
-A / Rating : $\color{#8C8C8C}20$ / Implementation, Strings
+A / Rating : $20$ / Implementation, Strings
 
-B / Rating : $\color{#8C8C8C}47$ / Implementation
+B / Rating : $47$ / Implementation
 
-C / Rating : $\color{#8C8C8C}204$ / Tree_Set, Bruteforce
+C / Rating : $204$ / Tree_Set, Bruteforce
 
-D / Rating : $\color{#22741C}854$ / DP, Strings
+D / Rating : $854$ / DP, Strings
 
-E / Rating : $\color{#22741C}973$ / Linked_List
+E / Rating : $973$ / Linked_List

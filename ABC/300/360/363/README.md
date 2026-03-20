@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc363/tasks
 
-A / Rating : $\color{#8C8C8C}11$ / Math
+A / Rating : $11$ / Math
 
-B / Rating : $\color{#8C8C8C}32$ / Greedy, Sorting
+B / Rating : $32$ / Greedy, Sorting
 
-C / Rating : $\color{#980000}602$ / Bruteforce, Strings
+C / Rating : $602$ / Bruteforce, Strings
 
-D / Rating : $\color{#22741C}975$ / Implementation
+D / Rating : $975$ / Implementation
 
-E / Rating : $\color{#24FCFF}1307$ / Simulation, BFS
+E / Rating : $1307$ / Simulation, BFS

@@ -1,11 +1,11 @@
 # https://atcoder.jp/contests/abc348/tasks
 
-A / Rating : $\color{#8C8C8C}10$ / Strings, Implementation
+A / Rating : $10$ / Strings, Implementation
 
-B / Rating : $\color{#8C8C8C}79$ / Bruteforce
+B / Rating : $79$ / Bruteforce
 
-C / Rating : $\color{#8C8C8C}156$ / Tree_Map, Greedy
+C / Rating : $156$ / Tree_Map, Greedy
 
-D / Rating : $\color{#22741C}1108$ / BFS
+D / Rating : $1108$ / BFS
 
-E / Rating : $\color{#24FCFF}1347$ / DP, DFS, Trees
+E / Rating : $1347$ / DP, DFS, Trees
