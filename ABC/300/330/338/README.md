@@ -12,4 +12,4 @@ E / Rating : $1220$ / Prioirty_Queue, Greedy
 
 F / Rating : $1835$ / DP, Floyd_Warshall, Bit_Masks
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/338.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/338.png)

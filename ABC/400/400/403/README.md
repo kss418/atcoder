@@ -12,4 +12,4 @@ E / Rating : $1447$ / Trie, Strings
 
 F / Rating : $1733$ / DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/403.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/403.png)

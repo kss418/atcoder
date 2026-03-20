@@ -12,4 +12,4 @@ E / Rating : $1385$ / DP, Combinatorics
 
 F / Rating : $1601$ / Stack, Recursive
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/350.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/350.png)

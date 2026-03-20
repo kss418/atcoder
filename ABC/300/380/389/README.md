@@ -10,4 +10,4 @@ D / Rating : $749$ / Geometry, Math
 
 F / Rating : $1642$ / Lazy_Propagation, Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/389.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/389.png)

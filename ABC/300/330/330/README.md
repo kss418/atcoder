@@ -12,4 +12,4 @@ E / Rating : $1004$ / Tree_Set, Ad_Hoc
 
 F / Rating : $1718$ / Binary_Search, Greedy, Sorting
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/330.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/330.png)

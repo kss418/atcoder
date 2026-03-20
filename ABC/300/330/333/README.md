@@ -10,4 +10,4 @@ D / Rating : $704$ / DP, Greedy, Sorting
 
 E / Rating : $948$ / Greedy, Tree_Set
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/333.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/333.png)

@@ -10,6 +10,4 @@ D / Rating : $607$ / DP
 
 E / Rating : $1128$ / Floyd, Graphs
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/286.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/286.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/286.png)

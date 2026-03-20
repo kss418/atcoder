@@ -11,8 +11,3 @@ D / Rating : $-$ / DP, Bitmasks
 E / Rating : $-$ / Priority_Queue, Greedy
 
 F / Rating : $-$ / Segment_Tree, Geometry
-
-
-
-
-

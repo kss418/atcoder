@@ -10,5 +10,4 @@ D / Rating : $845$ / DP
 
 E / Rating : $1053$ / Data_Structures, Tree_set
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/346.png)
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/346.png)

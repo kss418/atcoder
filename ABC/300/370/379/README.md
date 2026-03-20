@@ -12,5 +12,4 @@ E / Rating : $1246$ / Ad_Hoc, Prefix_Sum
 
 F / Rating : $1659$ / Segment_Tree, Offline_Query, Stack
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/379.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/379.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/379.png)

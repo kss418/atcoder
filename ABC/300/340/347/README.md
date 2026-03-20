@@ -10,4 +10,4 @@ D / Rating : $1041$ / Bit_Mask
 
 E / Rating : $1166$ / Implementation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/347.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/347.png)

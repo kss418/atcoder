@@ -10,4 +10,4 @@ D / Rating : $159$ / Binary_Search
 
 E / Rating : $1249$ / Combinatorics, Number_Theory
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/360.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/360.png)

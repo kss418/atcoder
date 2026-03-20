@@ -12,5 +12,4 @@ E / Rating : $1671$ / DP, Combinatorics
 
 F / Rating : $1443$ / Offline_Query, Lazy_Propagation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/382.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/382.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/382.png)

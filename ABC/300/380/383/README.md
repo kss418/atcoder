@@ -12,5 +12,4 @@ E / Rating : $1616$ / Disjoint_Set, Greedy
 
 F / Rating : $1706$ / DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/383.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/383.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/383.png)

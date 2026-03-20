@@ -12,4 +12,4 @@ E / Rating : $1286$ / DP, Graphs
 
 G / Rating : $1894$ / SPFA
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/404.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/404.png)

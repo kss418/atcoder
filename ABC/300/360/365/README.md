@@ -10,6 +10,4 @@ D / Rating : $730$ / DP
 
 E / Rating : $1102$ / Bit_Mask, Prefix_Sum
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/365.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/365.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/365.png)

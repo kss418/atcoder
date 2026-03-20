@@ -14,4 +14,4 @@ F / Rating : $1990$ / Combinatorics
 
 G / Rating : $1834$ / Sprague_Grundy_Theorem
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/297.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/297.png)

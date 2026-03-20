@@ -12,4 +12,4 @@ E / Rating : $1093$ / Dijkstra
 
 F / Rating : $1769$ / Knapsack, Greedy
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/325.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/325.png)

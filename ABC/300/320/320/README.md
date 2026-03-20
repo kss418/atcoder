@@ -10,4 +10,4 @@ D / Rating : $873$ / DFS, Consturctive
 
 E / Rating : $1096$ / Priority_Queue
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/320.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/320.png)

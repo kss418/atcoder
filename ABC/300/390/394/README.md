@@ -12,4 +12,4 @@ E / Rating : $1403$ / BFS
 
 F / Rating : $1549$ / Trees_DP, Sorting
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/394.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/394.png)

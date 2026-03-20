@@ -12,6 +12,4 @@ E / Rating : $1370$ / Sparse_Table
 
 F / Rating : $1540$ / Hashing
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/367.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/367.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/367.png)

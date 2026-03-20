@@ -10,5 +10,4 @@ D / Rating : $1171$ / Binary_Search, Implementation
 
 E / Rating : $1406$ / Sorting, Greedy, Graphs
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/385.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/385.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/385.png)

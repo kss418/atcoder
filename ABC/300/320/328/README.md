@@ -12,4 +12,4 @@ E / Rating : $1160$ / Backtracking, Disjoint_Set
 
 F / Rating : $1477$ / Disjoint_Set
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/328.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/328.png)

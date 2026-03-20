@@ -12,4 +12,4 @@ E / Rating : $1217$ / Strings, Trie
 
 G / Rating : $1765$ / Seg_Tree, DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/353.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/353.png)

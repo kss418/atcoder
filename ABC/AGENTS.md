@@ -48,6 +48,19 @@ $-$
 
 - By default, list only the problems that actually have source files in that contest folder, unless the user asks for placeholders for unsolved problems.
 
+## Image Rules
+
+- Shared ABC images live directly under `ABC/Images/`.
+- Use the filename format `<contest>.png`.
+- Do not create or reuse `ABC/Images/Standings/` or `ABC/Images/Performance/`.
+- If a contest README includes an image, keep it after the problem list.
+- Use a single standings image only.
+- Use this image line format:
+
+```md
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/425.png)
+```
+
 ## Tagging Rules
 
 - Tags should reflect the actual solution code, not just the official problem category.

@@ -10,7 +10,4 @@ D / Rating : $408$ / Coordinate_Compression, Segment_Tree
 
 E / Rating : $981$ / Ad_Hoc
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/371.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/371.png)
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/371.png)

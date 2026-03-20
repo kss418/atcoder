@@ -12,4 +12,4 @@ E / Rating : $1409$ / DP, Bitmasks, Combinatorics
 
 F / Rating : $1645$ / MITM, Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/402.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/402.png)

@@ -10,6 +10,6 @@ D / Rating : $970$ / Math
 
 E / Rating : $1295$ / SCC, Topological_Sorting
 
-E / Rating : $1793$ / Lazy_Propagation
+F / Rating : $1793$ / Lazy_Propagation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/357.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/357.png)

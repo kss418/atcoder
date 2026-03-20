@@ -12,5 +12,4 @@ E / Rating : $1230$ / Disjoint_Set
 
 F / Rating : $1769$ / DP, Game_Theory, Implementation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/380.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/380.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/380.png)

@@ -10,4 +10,4 @@ D / Rating : $659$ / Lazy_Propagation
 
 E / Rating : $1068$ / Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/388.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/388.png)

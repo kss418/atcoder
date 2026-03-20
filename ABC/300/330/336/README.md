@@ -10,4 +10,4 @@ D / Rating : $991$ / Prefix_Sum
 
 E / Rating : $1538$ / DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/336.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/336.png)

@@ -10,6 +10,6 @@ D / Rating : $884$ / Combinatorics, Math
 
 E / Rating : $1294$ / Dijkstra
 
-E / Rating : $1609$ / Priority_Queue, Greedy
+F / Rating : $1609$ / Priority_Queue, Greedy
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/252.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/252.png)

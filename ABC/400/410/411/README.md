@@ -10,6 +10,4 @@ D / Rating : $1018$ / Implementation
 
 E / Rating : $1400$ / Combinatorics, Math
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/411.png)
-
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/411.png)

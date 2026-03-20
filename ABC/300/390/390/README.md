@@ -12,4 +12,4 @@ E / Rating : $1227$ / DP, Binary_Search
 
 F / Rating : $1801$ / Ad_Hoc, Sweeping
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/390.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/390.png)

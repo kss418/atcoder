@@ -11,8 +11,3 @@ D / Rating : $699$ / Dijkstra, Graphs
 E / Rating : $790$ / Disjoint_Set
 
 G / Rating : $-$ / Math, Bruteforce
-
-
-
-
-

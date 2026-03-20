@@ -10,4 +10,4 @@ D / Rating : $873$ / DFS
 
 E / Rating : $1183$ / Dijkstra
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/277.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/277.png)

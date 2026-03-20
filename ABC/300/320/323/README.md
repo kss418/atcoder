@@ -12,4 +12,4 @@ E / Rating : $1279$ / DP
 
 F / Rating : $1532$ / Implementation, Case_Work
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/323.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/323.png)

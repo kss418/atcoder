@@ -10,4 +10,4 @@ D / Rating : $817$ / BFS
 
 F / Rating : $1760$ / SCC, DP, Topological_Sorting
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/387.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/387.png)

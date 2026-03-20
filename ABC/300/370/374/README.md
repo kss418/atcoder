@@ -10,6 +10,4 @@ D / Rating : $694$ / Bruteforce, Greedy
 
 E / Rating : $1504$ / Binary_Search, Greedy, Bruteforce
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/374.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/374.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/374.png)

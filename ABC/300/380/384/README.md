@@ -10,5 +10,4 @@ D / Rating : $666$ / Prefix_Sum, Binary_Search
 
 E / Rating : $1002$ / BFS, Prioirty_Queue
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/384.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/384.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/384.png)

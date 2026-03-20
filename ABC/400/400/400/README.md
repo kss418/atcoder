@@ -10,4 +10,4 @@ D / Rating : $1026$ / Dijkstra
 
 E / Rating : $1226$ / Sieve, Bruteforce, Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/400.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/400.png)

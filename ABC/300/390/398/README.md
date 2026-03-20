@@ -12,4 +12,4 @@ E / Rating : $1238$ / Interactiv, Bipartite_Graph
 
 F / Rating : $1033$ / Z, Strings
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/398.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/398.png)

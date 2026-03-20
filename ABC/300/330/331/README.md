@@ -12,4 +12,4 @@ E / Rating : $1018$ / Sorting, Greedy, Tree_Set
 
 F / Rating : $1666$ / Segment_Tree, Hash
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/331.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/331.png)

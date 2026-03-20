@@ -10,6 +10,4 @@ D / Rating : $1186$ / Backtracking
 
 E / Rating : $1496$ / Number_Theory, Sieve
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/412.png)
-
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/412.png)

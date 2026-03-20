@@ -12,4 +12,4 @@ E / Rating : $1213$ / DFS, Greedy
 
 F / Rating : $1606$ / Binary_Search, Combinatorics, Inclusion-Exclusion_Principle
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/361.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/361.png)

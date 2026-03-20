@@ -12,4 +12,4 @@ E / Rating : $1354$ / DP, Combinatorics
 
 F / Rating : $1846$ / Binary_Search, Prefix_Sum
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/300.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/300.png)

@@ -12,4 +12,4 @@ E / Rating : $1627$ / Ad_Hoc, Trees
 
 F / Rating : $1645$ / DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/321.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/321.png)

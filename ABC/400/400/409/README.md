@@ -12,4 +12,4 @@ E / Rating : $973$ / Trees, Topological_Sorting
 
 F / Rating : $1580$ / DSU, Priority_Queue
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/409.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/409.png)

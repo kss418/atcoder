@@ -10,5 +10,4 @@ D / Rating : $743$ / BFS
 
 E / Rating : $1063$ / Sorting, Prioirty_Queue, Greedy
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/376.png)
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/376.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/376.png)

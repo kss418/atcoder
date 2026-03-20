@@ -12,6 +12,4 @@ E / Rating : $1301$ / Bruteforce, Floyd_Warshall, bit_Mask
 
 F / Rating : $1618$ / Seg_Tree, Sorting
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/369.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/369.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/369.png)

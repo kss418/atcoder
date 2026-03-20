@@ -1,15 +1,13 @@
 # https://atcoder.jp/contests/abc416/tasks
 
-A / Rating : $$ / Implementation
+A / Rating : $-$ / Implementation
 
-B / Rating : $$ / Greedy
+B / Rating : $-$ / Greedy
 
-C / Rating : $$ / Backtracking, Sorting
+C / Rating : $-$ / Backtracking, Sorting
 
-D / Rating : $$ / Greedy, Binary_Search, Set
+D / Rating : $-$ / Greedy, Binary_Search, Set
 
-E / Rating : $$ / Floyd
+E / Rating : $-$ / Floyd
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/416.png)
-
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/416.png)

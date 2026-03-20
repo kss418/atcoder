@@ -11,8 +11,3 @@ D / Rating : $-$ / Divide_And_Conquer, Greedy
 E / Rating : $-$ / Geometry, Randomization
 
 F / Rating : $-$ / DP, Graphs
-
-
-
-
-

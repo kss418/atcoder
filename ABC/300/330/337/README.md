@@ -10,4 +10,4 @@ D / Rating : $760$ / Prefix_Sum
 
 E / Rating : $1155$ / Interactive, Bit_Masks
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/337.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/337.png)

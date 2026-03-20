@@ -11,6 +11,3 @@ D / Rating : $1230$ / Disjoint_Set, Bruteforce
 E / Rating : $1111$ / DFS
 
 F / Rating : $1414$ / Lazy_Propagation, Number_Thoery
-
-
-

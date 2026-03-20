@@ -14,4 +14,4 @@ F / Rating : $1395$ / Segment_Tree
 
 G / Rating : $1817$ / FFT
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/392.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/392.png)

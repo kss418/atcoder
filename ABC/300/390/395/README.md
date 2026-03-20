@@ -12,4 +12,4 @@ E / Rating : $978$ / Dijkstra
 
 F / Rating : $1437$ / Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/395.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/395.png)

@@ -12,4 +12,4 @@ E / Rating : $1253$ / Math, Number_Theory
 
 F / Rating : $1284$ / Segment_Tree, Offline_Query, DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/393.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/393.png)

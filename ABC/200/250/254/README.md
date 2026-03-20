@@ -10,4 +10,4 @@ D / Rating : $1191$ / Number_Theory, Math
 
 E / Rating : $1201$ / Dijkstra
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/254.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/254.png)

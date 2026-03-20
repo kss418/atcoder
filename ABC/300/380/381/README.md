@@ -12,4 +12,4 @@ E / Rating : $1396$ / Strings, Binary_Search
 
 F / Rating : $1739$ / Bit_DP
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/381.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/381.png)

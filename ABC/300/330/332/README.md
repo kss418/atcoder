@@ -10,4 +10,4 @@ D / Rating : $1175$ / BFS
 
 F / Rating : $1786$ / Lazy_Propagation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/332.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/332.png)

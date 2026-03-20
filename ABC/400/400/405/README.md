@@ -12,4 +12,4 @@ E / Rating : $1259$ / Math, Combinatorics
 
 F / Rating : $1588$ / Segment_Tree, Offline_Query, Sorting
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/405.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/405.png)

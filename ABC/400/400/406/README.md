@@ -12,4 +12,4 @@ E / Rating : $1365$ / DP, Math
 
 F / Rating : $1470$ / Segment_Tree, ETT
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/406.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/406.png)

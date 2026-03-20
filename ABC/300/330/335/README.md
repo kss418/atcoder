@@ -12,4 +12,4 @@ E / Rating : $1540$ / SCC, DP
 
 F / Rating : $1690$ / DP, Sqrt_Decomposition
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/335.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/335.png)

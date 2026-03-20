@@ -12,4 +12,4 @@ E / Rating : $1363$ / DP, Prefix_Sum
 
 F / Rating : $1870$ / Bruteforce, MITM, Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/326.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/326.png)

@@ -12,4 +12,4 @@ E / Rating : $1484$ / DP, Trees, Greedy
 
 F / Rating : $1753$ / DP, Lazy_Propagation, Prefix_Sum
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/397.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/397.png)

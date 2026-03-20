@@ -10,6 +10,4 @@ D / Rating : $1136$ / Binary_Search, Sorting
 
 E / Rating : $1496$ / DP, Knapsack
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/364.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/364.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/364.png)

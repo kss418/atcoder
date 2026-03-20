@@ -10,4 +10,4 @@ D / Rating : $802$ / Tree_Set
 
 E / Rating : $986$ / Prioirty_Queue, Stack
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/217.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/217.png)

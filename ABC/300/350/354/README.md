@@ -12,4 +12,4 @@ E / Rating : $1223$ / Games, DP
 
 F / Rating : $1639$ / Seg_Tree, Coordinate_Compression
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/354.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/354.png)

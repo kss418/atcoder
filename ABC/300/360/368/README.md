@@ -12,6 +12,4 @@ F / Rating : $1180$ / Games, DP
 
 G / Rating : $1841$ / Segment_Tree, Ad_Hoc
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/368.png)
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Performance/368.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/368.png)

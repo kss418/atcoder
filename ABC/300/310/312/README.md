@@ -10,4 +10,4 @@ D / Rating : $964$ / DP
 
 F / Rating : $1534$ / Sorting, Greedy, Ternary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/312.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/312.png)

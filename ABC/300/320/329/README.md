@@ -12,4 +12,4 @@ E / Rating : $1539$ / Greedy, Strings
 
 F / Rating : $1207$ / Tree_Set, Smaller_To_Larger
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/329.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/329.png)

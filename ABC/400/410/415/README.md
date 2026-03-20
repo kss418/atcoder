@@ -12,6 +12,4 @@ E / Rating : $1212$ / Parametric_Serach, DP
 
 F / Rating : $1552$ / Segment_Tree
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/415.png)
-
-
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/415.png)

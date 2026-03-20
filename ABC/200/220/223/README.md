@@ -12,4 +12,4 @@ E / Rating : $1510$ / DFS, Bruteforce
 
 F / Rating : $1641$ / Lazy_Propagation
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/223.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/223.png)

@@ -12,4 +12,4 @@ E / Rating : $2045$ / DSU, Graphs
 
 F / Rating : $1558$ / Prefix_Sum, Combinatorics
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/Standings/399.png)
+![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/399.png)
