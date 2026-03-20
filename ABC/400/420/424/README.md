@@ -1,16 +1,16 @@
 # https://atcoder.jp/contests/abc424/tasks
 
-A / Case_Work
+A / Rating : $-$ / Case_Work
 
-B / Implementation
+B / Rating : $-$ / Implementation
 
-C / BFS
+C / Rating : $-$ / BFS
 
-D / Bitmasks_DP
+D / Rating : $-$ / Bitmasks_DP
 
-E / Priority_Queue
+E / Rating : $-$ / Priority_Queue
 
-F / Segment_Tree
+F / Rating : $-$ / Segment_Tree
 
 
 
