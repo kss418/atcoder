@@ -11,5 +11,3 @@ D / Rating : $709$ / DFS
 E / Rating : $1227$ / DP, Prefix_Sum
 
 F / Rating : $1624$ / Lazy_Propagation
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/327.png)
