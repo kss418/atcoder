@@ -1,16 +1,16 @@
 # https://atcoder.jp/contests/abc422/tasks
 
-A / Rating : $-$ / Implementation
+A / Rating : $-$ / Implementation, Case_Work
 
-B / Rating : $-$ / Implementation
+B / Rating : $-$ / Implementation, Graphs
 
-C / Rating : $-$ / Greedy
+C / Rating : $-$ / Greedy, Math
 
-D / Rating : $-$ / DnC, Greedy
+D / Rating : $-$ / Divide_And_Conquer, Greedy
 
-E / Rating : $-$ / CCW, Randomization
+E / Rating : $-$ / Geometry, Randomization
 
-F / Rating : $-$ / DP
+F / Rating : $-$ / DP, Graphs
 
 
 

@@ -1,6 +1,6 @@
 # https://atcoder.jp/contests/abc423/tasks
 
-A / Rating : $-$ / Bruteforce
+A / Rating : $-$ / Math
 
 B / Rating : $-$ / Implementation
 
@@ -8,9 +8,9 @@ C / Rating : $-$ / Implementation
 
 D / Rating : $-$ / Priority_Queue
 
-E / Rating : $-$ / Prefix_Sum
+E / Rating : $-$ / Prefix_Sum, Math
 
-F / Rating : $-$ / Math, In-Ex Principle
+F / Rating : $-$ / Math, Inclusion-Exclusion_Principle
 
 
 

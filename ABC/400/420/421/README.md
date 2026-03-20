@@ -4,9 +4,9 @@ A / Rating : $14$ / Implementation
 
 B / Rating : $55$ / Implementation, Strings
 
-C / Rating : $378$ / Greedy, Binary_Search
+C / Rating : $378$ / Greedy, Strings
 
-D / Rating : $1321$ / Implementation, Case_Work
+D / Rating : $1321$ / Simulation, Geometry
 
 F / Rating : $1805$ / Lazy_Propagation, DFS
 
