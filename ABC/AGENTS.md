@@ -91,6 +91,7 @@ $-$
 
 - Prefer these normalized names over inconsistent variants:
   - `Bitmasks` instead of `Bitmasks_DP`
+  - `Lazy_Propagation` instead of `Segment_Tree` when the main technique is a lazy segment tree
   - `Geometry` instead of `CCW`
   - `Divide_And_Conquer` instead of `DnC`
   - `Inclusion-Exclusion_Principle` instead of `In-Ex Principle`
