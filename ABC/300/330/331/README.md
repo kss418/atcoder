@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc331/tasks
+# https://atcoder.jp/contests/abc331
+
+## Solutions
 
 A / Rating : $25$ / Implementation
 
@@ -10,6 +12,4 @@ D / Rating : $1361$ / Prefix_Sum
 
 E / Rating : $1018$ / Sorting, Greedy, Tree_Set
 
-F / Rating : $1666$ / Segment_Tree, Hash
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/331.png)
+F / Rating : $1666$ / Segment_Tree, Hashing

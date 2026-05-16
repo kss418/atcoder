@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc400/tasks
+# https://atcoder.jp/contests/abc400
+
+## Solutions
 
 A / Rating : $7$ / Math
 
@@ -9,5 +11,3 @@ C / Rating : $702$ / Math
 D / Rating : $1026$ / Dijkstra
 
 E / Rating : $1226$ / Sieve, Bruteforce, Binary_Search
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/400.png)

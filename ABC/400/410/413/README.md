@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc413/tasks
+# https://atcoder.jp/contests/abc413
+
+## Solutions
 
 A / Rating : $10$ / Implementation
 
@@ -8,10 +10,8 @@ C / Rating : $229$ / Deque
 
 D / Rating : $943$ / Math
 
-E / Rating : $1241$ / DnC
+E / Rating : $1241$ / DNC
 
 F / Rating : $1635$ / Priority_Queue, BFS
 
 G / Rating : $1723$ / DSU, BFS
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/413.png)

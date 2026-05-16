@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc409/tasks
+# https://atcoder.jp/contests/abc409
+
+## Solutions
 
 A / Rating : $22$ / Implementation
 
@@ -6,10 +8,8 @@ B / Rating : $126$ / Bruteforce
 
 C / Rating : $421$ / Math
 
-D / Rating : $772$ / Strings, Greedy
+D / Rating : $772$ / String, Greedy
 
-E / Rating : $973$ / Trees, Topological_Sorting
+E / Rating : $973$ / Tree, Topological_Sort
 
 F / Rating : $1580$ / DSU, Priority_Queue
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/409.png)

@@ -1,13 +1,15 @@
-# https://atcoder.jp/contests/abc426/tasks
+# https://atcoder.jp/contests/abc426
 
-A / Rating : $18$ / Implementation, Strings
+## Solutions
 
-B / Rating : $25$ / Implementation, Strings
+A / Rating : $18$ / Implementation, String
+
+B / Rating : $25$ / Implementation, String
 
 C / Rating : $458$ / Priority_Queue, Greedy
 
-D / Rating : $886$ / Greedy, Strings, Two_Pointers
+D / Rating : $886$ / Greedy, String, Two_Pointers
 
 E / Rating : $1584$ / Geometry, Ternary_Search
 
-F / Rating : $1776$ / Lazy_Propagation, Binary_Search, Offline_Query
+F / Rating : $1776$ / Lazy_Propagation, Binary_Search, Offline_Queries

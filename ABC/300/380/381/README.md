@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc381/tasks
+# https://atcoder.jp/contests/abc381
 
-A / Rating : $31$ / Implementation, Strings
+## Solutions
 
-B / Rating : $52$ / Implementation, Strings
+A / Rating : $31$ / Implementation, String
 
-C / Rating : $209$ / Strings, Two_Pointers
+B / Rating : $52$ / Implementation, String
 
-D / Rating : $921$ / Strings, Two_Pointers
+C / Rating : $209$ / String, Two_Pointers
 
-E / Rating : $1396$ / Strings, Binary_Search
+D / Rating : $921$ / String, Two_Pointers
 
-F / Rating : $1739$ / Bit_DP
+E / Rating : $1396$ / String, Binary_Search
 
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/381.png)
+F / Rating : $1739$ / Bit_Mask

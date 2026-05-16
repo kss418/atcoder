@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc399/tasks
+# https://atcoder.jp/contests/abc399
+
+## Solutions
 
 A / Rating : $9$ / Implementation
 
 B / Rating : $41$ / Bruteforce
 
-C / Rating : $321$ / DSU, Trees
+C / Rating : $321$ / DSU, Tree
 
-D / Rating : $964$ / Tree_Map, Case_Work
+D / Rating : $964$ / Tree_Set, Case_Work
 
-E / Rating : $2045$ / DSU, Graphs
+E / Rating : $2045$ / DSU, Graph
 
 F / Rating : $1558$ / Prefix_Sum, Combinatorics
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/399.png)

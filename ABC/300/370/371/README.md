@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc371/tasks
+# https://atcoder.jp/contests/abc371
+
+## Solutions
 
 A / Rating : $29$ / Implementation, Case_Work
 
@@ -9,5 +11,3 @@ C / Rating : $849$ / Bruteforce
 D / Rating : $408$ / Coordinate_Compression, Segment_Tree
 
 E / Rating : $981$ / Ad_Hoc
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/371.png)

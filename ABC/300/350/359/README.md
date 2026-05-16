@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc359/tasks
+# https://atcoder.jp/contests/abc359
 
-A / Rating : $10$ / Implementation, Strings
+## Solutions
+
+A / Rating : $10$ / Implementation, String
 
 B / Rating : $27$ / Implementation
 
 C / Rating : $828$ / Math
 
-D / Rating : $1381$ / DP, Strings
+D / Rating : $1381$ / DP, String
 
 E / Rating : $1275$ / Stack
 
 F / Rating : $1792$ / Greedy, Tree_Set
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/359.png)

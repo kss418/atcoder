@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc298/tasks
+# https://atcoder.jp/contests/abc298
+
+## Solutions
 
 A / Rating : $-$ / Implementation, Case_Work
 
@@ -10,4 +12,4 @@ D / Rating : $882$ / Deque, Math
 
 E / Rating : $1300$ / DP, Combinatorics, Math
 
-F / Rating : $1535$ / Hash_Map, Greedy
+F / Rating : $1535$ / Hash_Set, Greedy

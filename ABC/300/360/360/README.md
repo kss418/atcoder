@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc360/tasks
+# https://atcoder.jp/contests/abc360
+
+## Solutions
 
 A / Rating : $19$ / Implementation
 
@@ -9,5 +11,3 @@ C / Rating : $36$ / Greedy, Sorting
 D / Rating : $159$ / Binary_Search
 
 E / Rating : $1249$ / Combinatorics, Number_Theory
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/360.png)

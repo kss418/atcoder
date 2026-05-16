@@ -1,13 +1,13 @@
-# https://atcoder.jp/contests/abc286/tasks
+# https://atcoder.jp/contests/abc286
+
+## Solutions
 
 A / Rating : $30$ / Implementation
 
-B / Rating : $32$ / Implementation, Strings
+B / Rating : $32$ / Implementation, String
 
-C / Rating : $565$ / Bruteforce, Strings
+C / Rating : $565$ / Bruteforce, String
 
 D / Rating : $607$ / DP
 
-E / Rating : $1128$ / Floyd, Graphs
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/286.png)
+E / Rating : $1128$ / Floyd_Warshall, Graph

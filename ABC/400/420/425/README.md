@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc425/tasks
+# https://atcoder.jp/contests/abc425
+
+## Solutions
 
 A / Rating : $13$ / Implementation, Math
 
@@ -10,4 +12,4 @@ D / Rating : $882$ / Simulation, BFS
 
 E / Rating : $1221$ / DP, Combinatorics
 
-F / Rating : $1831$ / DP, Bitmasks
+F / Rating : $1831$ / DP, Bit_Mask

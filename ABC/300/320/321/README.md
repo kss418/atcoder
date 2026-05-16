@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc321/tasks
+# https://atcoder.jp/contests/abc321
+
+## Solutions
 
 A / Rating : $22$ / Implementation
 
@@ -8,8 +10,6 @@ C / Rating : $591$ / Priority_Queue
 
 D / Rating : $806$ / Sorting, Greedy, Binary_Search
 
-E / Rating : $1627$ / Ad_Hoc, Trees
+E / Rating : $1627$ / Ad_Hoc, Tree
 
 F / Rating : $1645$ / DP
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/321.png)

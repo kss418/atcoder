@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc412/tasks
+# https://atcoder.jp/contests/abc412
+
+## Solutions
 
 A / Rating : $10$ / Implementation
 
@@ -9,5 +11,3 @@ C / Rating : $607$ / Ad_Hoc
 D / Rating : $1186$ / Backtracking
 
 E / Rating : $1496$ / Number_Theory, Sieve
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/412.png)

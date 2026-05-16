@@ -1,13 +1,15 @@
-# https://atcoder.jp/contests/abc422/tasks
+# https://atcoder.jp/contests/abc422
+
+## Solutions
 
 A / Rating : $-$ / Implementation, Case_Work
 
-B / Rating : $-$ / Implementation, Graphs
+B / Rating : $-$ / Implementation, Graph
 
 C / Rating : $-$ / Greedy, Math
 
-D / Rating : $-$ / Divide_And_Conquer, Greedy
+D / Rating : $-$ / DNC, Greedy
 
 E / Rating : $-$ / Geometry, Randomization
 
-F / Rating : $-$ / DP, Graphs
+F / Rating : $-$ / DP, Graph

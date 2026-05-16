@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc423/tasks
+# https://atcoder.jp/contests/abc423
+
+## Solutions
 
 A / Rating : $-$ / Math
 
@@ -10,4 +12,4 @@ D / Rating : $-$ / Priority_Queue
 
 E / Rating : $-$ / Prefix_Sum, Math
 
-F / Rating : $-$ / Math, Inclusion-Exclusion_Principle
+F / Rating : $-$ / Math, Inclusion_And_Exclusion

@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc392/tasks
+# https://atcoder.jp/contests/abc392
+
+## Solutions
 
 A / Rating : $11$ / Bruteforce
 
@@ -8,10 +10,8 @@ C / Rating : $132$ / Implementation
 
 D / Rating : $579$ / Math
 
-E / Rating : $1218$ / Disjoint_Set
+E / Rating : $1218$ / DSU
 
 F / Rating : $1395$ / Segment_Tree
 
 G / Rating : $1817$ / FFT
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/392.png)

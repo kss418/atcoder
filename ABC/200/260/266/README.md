@@ -1,6 +1,8 @@
-# https://atcoder.jp/contests/abc266/tasks
+# https://atcoder.jp/contests/abc266
 
-A / Rating : $9$ / Implementation, Strings
+## Solutions
+
+A / Rating : $9$ / Implementation, String
 
 B / Rating : $95$ / Implementation, Math
 

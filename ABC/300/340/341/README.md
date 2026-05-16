@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc341/tasks
+# https://atcoder.jp/contests/abc341
+
+## Solutions
 
 A / Rating : $11$ / Implementation
 
@@ -6,7 +8,7 @@ B / Rating : $163$ / Math
 
 C / Rating : $406$ / Implementation
 
-D / Rating : $829$ / Binary_Search, Number_Thoery
+D / Rating : $829$ / Binary_Search, Number_Theory
 
 E / Rating : $1223$ / Segment_Tree
 

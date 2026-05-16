@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc405/tasks
+# https://atcoder.jp/contests/abc405
+
+## Solutions
 
 A / Rating : $10$ / Case_Work
 
@@ -10,6 +12,4 @@ D / Rating : $471$ / BFS, Implementation
 
 E / Rating : $1259$ / Math, Combinatorics
 
-F / Rating : $1588$ / Segment_Tree, Offline_Query, Sorting
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/405.png)
+F / Rating : $1588$ / Segment_Tree, Offline_Queries, Sorting

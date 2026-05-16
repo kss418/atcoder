@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc326/tasks
+# https://atcoder.jp/contests/abc326
+
+## Solutions
 
 A / Rating : $28$ / Case_Work
 
@@ -10,6 +12,4 @@ D / Rating : $1371$ / Backtracking
 
 E / Rating : $1363$ / DP, Prefix_Sum
 
-F / Rating : $1870$ / Bruteforce, MITM, Binary_Search
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/326.png)
+F / Rating : $1870$ / Bruteforce, Meet_In_The_Middle, Binary_Search

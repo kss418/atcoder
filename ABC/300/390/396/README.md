@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc396/tasks
+# https://atcoder.jp/contests/abc396
+
+## Solutions
 
 A / Rating : $13$ / Implementation
 
@@ -8,6 +10,6 @@ C / Rating : $291$ / Greedy
 
 D / Rating : $601$ / DFS
 
-E / Rating : $1379$ / DFS, Bit_Masks
+E / Rating : $1379$ / DFS, Bit_Mask
 
 F / Rating : $1479$ / Segment_Tree, Ad_Hoc

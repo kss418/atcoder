@@ -1,13 +1,13 @@
-# https://atcoder.jp/contests/abc217/tasks
+# https://atcoder.jp/contests/abc217
 
-A / Rating : $21$ / Implementation, Strings
+## Solutions
 
-B / Rating : $22$ / Implementation, Strings
+A / Rating : $21$ / Implementation, String
+
+B / Rating : $22$ / Implementation, String
 
 C / Rating : $49$ / Implementation
 
 D / Rating : $802$ / Tree_Set
 
-E / Rating : $986$ / Prioirty_Queue, Stack
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/217.png)
+E / Rating : $986$ / Priority_Queue, Stack

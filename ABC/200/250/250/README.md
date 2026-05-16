@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc250/tasks
+# https://atcoder.jp/contests/abc250
+
+## Solutions
 
 A / Rating : $25$ / Implementation, Case_Work
 
@@ -8,4 +10,4 @@ C / Rating : $517$ / Implementation
 
 D / Rating : $797$ / Number_Theory, Primality_Test
 
-E / Rating : $1421$ / Hash
+E / Rating : $1421$ / Hashing

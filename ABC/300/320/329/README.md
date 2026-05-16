@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc329/tasks
+# https://atcoder.jp/contests/abc329
+
+## Solutions
 
 A / Rating : $9$ / Implementation
 
@@ -8,8 +10,6 @@ C / Rating : $205$ / Greedy
 
 D / Rating : $263$ / Tree_Set
 
-E / Rating : $1539$ / Greedy, Strings
+E / Rating : $1539$ / Greedy, String
 
 F / Rating : $1207$ / Tree_Set, Smaller_To_Larger
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/329.png)

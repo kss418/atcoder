@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc336/tasks
+# https://atcoder.jp/contests/abc336
+
+## Solutions
 
 A / Rating : $6$ / Implementation
 
@@ -9,5 +11,3 @@ C / Rating : $343$ / Math
 D / Rating : $991$ / Prefix_Sum
 
 E / Rating : $1538$ / DP
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/336.png)

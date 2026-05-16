@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc377/tasks
+# https://atcoder.jp/contests/abc377
 
-A / Rating : $12$ / Implementation, Strings
+## Solutions
+
+A / Rating : $12$ / Implementation, String
 
 B / Rating : $50$ / Implementation
 
-C / Rating : $274$ / Tree_Map, Implementation
+C / Rating : $274$ / Tree_Set, Implementation
 
 D / Rating : $987$ / Sorting, Greedy
 
-E / Rating : $1685$ / Graphs, DFS
+E / Rating : $1685$ / Graph, DFS
 
-G / Rating : $1782$ / Trie, Strings, Greedy
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/377.png)
+G / Rating : $1782$ / Trie, String, Greedy

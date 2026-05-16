@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc350/tasks
+# https://atcoder.jp/contests/abc350
 
-A / Rating : $32$ / Implementation, Strings
+## Solutions
+
+A / Rating : $32$ / Implementation, String
 
 B / Rating : $45$ / Implementation
 
 C / Rating : $394$ / Implementation
 
-D / Rating : $773$ / DFS, Graphs
+D / Rating : $773$ / DFS, Graph
 
 E / Rating : $1385$ / DP, Combinatorics
 
-F / Rating : $1601$ / Stack, Recursive
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/350.png)
+F / Rating : $1601$ / Stack, Recursion

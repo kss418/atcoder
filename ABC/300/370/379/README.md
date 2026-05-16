@@ -1,6 +1,8 @@
-# https://atcoder.jp/contests/abc379/tasks
+# https://atcoder.jp/contests/abc379
 
-A / Rating : $11$ / Implementation, strings
+## Solutions
+
+A / Rating : $11$ / Implementation, String
 
 B / Rating : $39$ / Greedy
 
@@ -10,6 +12,4 @@ D / Rating : $745$ / Binary_Search
 
 E / Rating : $1246$ / Ad_Hoc, Prefix_Sum
 
-F / Rating : $1659$ / Segment_Tree, Offline_Query, Stack
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/379.png)
+F / Rating : $1659$ / Segment_Tree, Offline_Queries, Stack

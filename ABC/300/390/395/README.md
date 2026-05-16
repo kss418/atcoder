@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc395/tasks
+# https://atcoder.jp/contests/abc395
+
+## Solutions
 
 A / Rating : $14$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $919$ / Implementation
 E / Rating : $978$ / Dijkstra
 
 F / Rating : $1437$ / Binary_Search
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/395.png)

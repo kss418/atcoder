@@ -1,10 +1,12 @@
-# https://atcoder.jp/contests/abc358/tasks
+# https://atcoder.jp/contests/abc358
 
-A / Rating : $11$ / Implementation, strings
+## Solutions
+
+A / Rating : $11$ / Implementation, String
 
 B / Rating : $43$ / Greedy
 
-C / Rating : $273$ / Bruteforces, Bit_Masks
+C / Rating : $273$ / Bruteforce, Bit_Mask
 
 D / Rating : $393$ / Greedy, Sorting
 

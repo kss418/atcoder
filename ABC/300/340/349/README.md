@@ -1,8 +1,10 @@
-# https://atcoder.jp/contests/abc349/tasks
+# https://atcoder.jp/contests/abc349
+
+## Solutions
 
 A / Rating : $25$ / Math
 
-B / Rating : $89$ / Implementation, Strings
+B / Rating : $89$ / Implementation, String
 
 C / Rating : $219$ / Binary_Search
 

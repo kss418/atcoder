@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc284/tasks
+# https://atcoder.jp/contests/abc284
+
+## Solutions
 
 A / Rating : $10$ / Implementation, Math
 

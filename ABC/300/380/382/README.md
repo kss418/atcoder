@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc382/tasks
+# https://atcoder.jp/contests/abc382
 
-A / Rating : $10$ / Implementation, Strings
+## Solutions
 
-B / Rating : $24$ / Implementation, Strings
+A / Rating : $10$ / Implementation, String
 
-C / Rating : $476$ / Prioirty_Queue
+B / Rating : $24$ / Implementation, String
+
+C / Rating : $476$ / Priority_Queue
 
 D / Rating : $685$ / Backtracking, Bruteforce
 
 E / Rating : $1671$ / DP, Combinatorics
 
-F / Rating : $1443$ / Offline_Query, Lazy_Propagation
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/382.png)
+F / Rating : $1443$ / Offline_Queries, Lazy_Propagation

@@ -1,13 +1,13 @@
-# https://atcoder.jp/contests/abc337/tasks
+# https://atcoder.jp/contests/abc337
+
+## Solutions
 
 A / Rating : $15$ / Implementation, Math
 
-B / Rating : $97$ / Implementation, Strings
+B / Rating : $97$ / Implementation, String
 
 C / Rating : $258$ / Implementation
 
 D / Rating : $760$ / Prefix_Sum
 
-E / Rating : $1155$ / Interactive, Bit_Masks
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/337.png)
+E / Rating : $1155$ / Interactive, Bit_Mask

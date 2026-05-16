@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc252/tasks
+# https://atcoder.jp/contests/abc252
+
+## Solutions
 
 A / Rating : $7$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $884$ / Combinatorics, Math
 E / Rating : $1294$ / Dijkstra
 
 F / Rating : $1609$ / Priority_Queue, Greedy
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/252.png)

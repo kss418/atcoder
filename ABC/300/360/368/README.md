@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc368/tasks
+# https://atcoder.jp/contests/abc368
+
+## Solutions
 
 A / Rating : $20$ / Implementation
 
@@ -8,8 +10,6 @@ C / Rating : $368$ / Math
 
 D / Rating : $816$ / LCA
 
-F / Rating : $1180$ / Games, DP
+F / Rating : $1180$ / Game_Theory, DP
 
 G / Rating : $1841$ / Segment_Tree, Ad_Hoc
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/368.png)

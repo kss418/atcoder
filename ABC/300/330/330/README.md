@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc330/tasks
+# https://atcoder.jp/contests/abc330
+
+## Solutions
 
 A / Rating : $8$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $569$ / Combinatorics, Math
 E / Rating : $1004$ / Tree_Set, Ad_Hoc
 
 F / Rating : $1718$ / Binary_Search, Greedy, Sorting
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/330.png)

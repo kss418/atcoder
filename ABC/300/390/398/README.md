@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc398/tasks
+# https://atcoder.jp/contests/abc398
+
+## Solutions
 
 A / Rating : $10$ / Constructive
 
 B / Rating : $46$ / Bruteforce
 
-C / Rating : $124$ / Tree_Map
+C / Rating : $124$ / Tree_Set
 
 D / Rating : $746$ / Ad_Hoc, Tree_Set
 
-E / Rating : $1238$ / Interactiv, Bipartite_Graph
+E / Rating : $1238$ / Interactive, Bipartite_Graph
 
-F / Rating : $1033$ / Z, Strings
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/398.png)
+F / Rating : $1033$ / Z_Function, String

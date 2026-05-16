@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc335/tasks
+# https://atcoder.jp/contests/abc335
+
+## Solutions
 
 A / Rating : $9$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $431$ / Constructive
 E / Rating : $1540$ / SCC, DP
 
 F / Rating : $1690$ / DP, Sqrt_Decomposition
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/335.png)

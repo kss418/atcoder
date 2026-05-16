@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc397/tasks
+# https://atcoder.jp/contests/abc397
+
+## Solutions
 
 A / Rating : $6$ / Case_Work
 
@@ -8,8 +10,6 @@ C / Rating : $184$ / Prefix_Sum
 
 D / Rating : $1132$ / Math, Bruteforce
 
-E / Rating : $1484$ / DP, Trees, Greedy
+E / Rating : $1484$ / DP, Tree, Greedy
 
 F / Rating : $1753$ / DP, Lazy_Propagation, Prefix_Sum
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/397.png)

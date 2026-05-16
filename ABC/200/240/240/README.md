@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc240/tasks
+# https://atcoder.jp/contests/abc240
+
+## Solutions
 
 A / Rating : $7$ / Implementation
 

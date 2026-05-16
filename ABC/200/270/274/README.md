@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc274/tasks
+# https://atcoder.jp/contests/abc274
+
+## Solutions
 
 A / Rating : $23$ / Implementation
 

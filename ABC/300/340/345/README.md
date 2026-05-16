@@ -1,6 +1,8 @@
-# https://atcoder.jp/contests/abc345/tasks
+# https://atcoder.jp/contests/abc345
 
-A / Rating : $41$ / Strings, Case_Work
+## Solutions
+
+A / Rating : $41$ / String, Case_Work
 
 B / Rating : $91$ / Math
 

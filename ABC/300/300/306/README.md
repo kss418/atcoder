@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc306/tasks
+# https://atcoder.jp/contests/abc306
+
+## Solutions
 
 A / Rating : $-$ / Implementation
 

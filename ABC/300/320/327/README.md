@@ -1,10 +1,12 @@
-# https://atcoder.jp/contests/abc327/tasks
+# https://atcoder.jp/contests/abc327
+
+## Solutions
 
 A / Rating : $23$ / Implementation
 
 B / Rating : $129$ / Bruteforce, Math
 
-C / Rating : $169$ / Implemnetaion
+C / Rating : $169$ / Implementation
 
 D / Rating : $709$ / DFS
 

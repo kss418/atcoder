@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc265/tasks
+# https://atcoder.jp/contests/abc265
+
+## Solutions
 
 A / Rating : $18$ / Implementation, Math
 
@@ -8,4 +10,4 @@ C / Rating : $212$ / DFS
 
 D / Rating : $727$ / Binary_Search
 
-E / Rating : $1531$ / DP, Tree_Map
+E / Rating : $1531$ / DP, Tree_Set

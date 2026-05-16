@@ -1,8 +1,10 @@
-# https://atcoder.jp/contests/abc202/tasks
+# https://atcoder.jp/contests/abc202
+
+## Solutions
 
 A / Rating : $4$ / Math
 
-B / Rating : $16$ / Strings, Implementation
+B / Rating : $16$ / String, Implementation
 
 C / Rating : $204$ / Implementation
 

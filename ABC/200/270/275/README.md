@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc275/tasks
+# https://atcoder.jp/contests/abc275
+
+## Solutions
 
 A / Rating : $14$ / Implementation
 
@@ -10,4 +12,4 @@ D / Rating : $606$ / DP
 
 E / Rating : $1264$ / DP, Combinatorics, Math
 
-F / Rating : $1608$ / DP, Seg_Tree, Prefix_Sum
+F / Rating : $1608$ / DP, Segment_Tree, Prefix_Sum

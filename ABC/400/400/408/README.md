@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc408/tasks
+# https://atcoder.jp/contests/abc408
+
+## Solutions
 
 A / Rating : $38$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $950$ / Prefix_Sum
 E / Rating : $1222$ / Greedy, BFS
 
 F / Rating : $1472$ / DP, Segment_Tree
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/408.png)

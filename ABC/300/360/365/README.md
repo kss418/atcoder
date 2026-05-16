@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc365/tasks
+# https://atcoder.jp/contests/abc365
+
+## Solutions
 
 A / Rating : $10$ / Implementation, Case_Work
 
@@ -9,5 +11,3 @@ C / Rating : $269$ / Parametric_Search
 D / Rating : $730$ / DP
 
 E / Rating : $1102$ / Bit_Mask, Prefix_Sum
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/365.png)

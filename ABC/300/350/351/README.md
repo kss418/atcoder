@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc351/tasks
+# https://atcoder.jp/contests/abc351
+
+## Solutions
 
 A / Rating : $11$ / Implementation, Math
 

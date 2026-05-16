@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc402/tasks
+# https://atcoder.jp/contests/abc402
+
+## Solutions
 
 A / Rating : $10$ / Implementation
 
@@ -8,8 +10,6 @@ C / Rating : $337$ / Implementation
 
 D / Rating : $827$ / Geometry
 
-E / Rating : $1409$ / DP, Bitmasks, Combinatorics
+E / Rating : $1409$ / DP, Bit_Mask, Combinatorics
 
-F / Rating : $1645$ / MITM, Binary_Search
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/402.png)
+F / Rating : $1645$ / Meet_In_The_Middle, Binary_Search

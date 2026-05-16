@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc262/tasks
+# https://atcoder.jp/contests/abc262
+
+## Solutions
 
 A / Rating : $8$ / Math
 

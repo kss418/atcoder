@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc390/tasks
+# https://atcoder.jp/contests/abc390
+
+## Solutions
 
 A / Rating : $43$ / Implementation
 
@@ -11,5 +13,3 @@ D / Rating : $1607$ / Backtracking
 E / Rating : $1227$ / DP, Binary_Search
 
 F / Rating : $1801$ / Ad_Hoc, Sweeping
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/390.png)

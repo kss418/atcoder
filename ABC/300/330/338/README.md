@@ -1,15 +1,15 @@
-# https://atcoder.jp/contests/abc338/tasks
+# https://atcoder.jp/contests/abc338
 
-A / Rating : $21$ / Strings, Implementation
+## Solutions
 
-B / Rating : $48$ / Strings, Implementation
+A / Rating : $21$ / String, Implementation
+
+B / Rating : $48$ / String, Implementation
 
 C / Rating : $513$ / Greedy, Bruteforce
 
 D / Rating : $1234$ / Greedy, Lazy_Propagation
 
-E / Rating : $1220$ / Prioirty_Queue, Greedy
+E / Rating : $1220$ / Priority_Queue, Greedy
 
-F / Rating : $1835$ / DP, Floyd_Warshall, Bit_Masks
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/338.png)
+F / Rating : $1835$ / DP, Floyd_Warshall, Bit_Mask

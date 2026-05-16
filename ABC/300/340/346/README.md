@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc346/tasks
+# https://atcoder.jp/contests/abc346
+
+## Solutions
 
 A / Rating : $10$ / Implementation
 
@@ -8,6 +10,4 @@ C / Rating : $179$ / Math
 
 D / Rating : $845$ / DP
 
-E / Rating : $1053$ / Data_Structures, Tree_set
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/346.png)
+E / Rating : $1053$ / Data_Structure, Tree_Set

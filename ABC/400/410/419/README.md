@@ -1,8 +1,10 @@
-# https://atcoder.jp/contests/abc419/tasks
+# https://atcoder.jp/contests/abc419
+
+## Solutions
 
 A / Rating : $16$ / Case_Work
 
-B / Rating : $31$ / Prioirty_Queue
+B / Rating : $31$ / Priority_Queue
 
 C / Rating : $259$ / Math
 

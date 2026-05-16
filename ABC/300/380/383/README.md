@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc383/tasks
+# https://atcoder.jp/contests/abc383
+
+## Solutions
 
 A / Rating : $19$ / Implementation
 
@@ -8,8 +10,6 @@ C / Rating : $750$ / BFS
 
 D / Rating : $884$ / Math, Number_Theory
 
-E / Rating : $1616$ / Disjoint_Set, Greedy
+E / Rating : $1616$ / DSU, Greedy
 
 F / Rating : $1706$ / DP
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/383.png)

@@ -1,6 +1,8 @@
-# https://atcoder.jp/contests/abc339/tasks
+# https://atcoder.jp/contests/abc339
 
-A / Rating : $18$ / Strings, Implementation
+## Solutions
+
+A / Rating : $18$ / String, Implementation
 
 B / Rating : $202$ / Implementation, Simulation
 
@@ -10,4 +12,4 @@ D / Rating : $1276$ / BFS
 
 E / Rating : $1109$ / Segment_Tree
 
-F / Rating : $1716$ / Hashing, Tree_Map, Randomized
+F / Rating : $1716$ / Hashing, Tree_Set, Randomization

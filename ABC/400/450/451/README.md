@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc451/tasks
+# https://atcoder.jp/contests/abc451
+
+## Solutions
 
 A / Rating : $11$ / Implementation, Math
 
@@ -8,8 +10,6 @@ C / Rating : $275$ / Priority_Queue, Simulation
 
 D / Rating : $856$ / BFS, Math
 
-E / Rating : $1215$ / Disjoint_Set, DFS, Graphs
+E / Rating : $1215$ / DSU, DFS, Graph
 
-F / Rating : $1540$ / Disjoint_Set, Binary_Search, Graphs
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/451.png)
+F / Rating : $1540$ / DSU, Binary_Search, Graph

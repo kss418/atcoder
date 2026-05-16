@@ -1,4 +1,6 @@
-# https://atcoder.jp/contests/abc369/tasks
+# https://atcoder.jp/contests/abc369
+
+## Solutions
 
 A / Rating : $28$ / Implementation, Bruteforce
 
@@ -8,8 +10,6 @@ C / Rating : $323$ / Combinatorics
 
 D / Rating : $621$ / DP
 
-E / Rating : $1301$ / Bruteforce, Floyd_Warshall, bit_Mask
+E / Rating : $1301$ / Bruteforce, Floyd_Warshall, Bit_Mask
 
-F / Rating : $1618$ / Seg_Tree, Sorting
-
-![My Image](https://github.com/kss418/Atcoder/blob/main/ABC/Images/369.png)
+F / Rating : $1618$ / Segment_Tree, Sorting
