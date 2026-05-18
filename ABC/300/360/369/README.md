@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc369
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 1 | 0 | 0 | 7 | 0 |
+| AC Time | 00:07:00 | 00:11:53 | 00:45:03 | 00:34:45 | - | - | - |
+
 ## Solutions
 
 A / Rating : $28$ / Implementation, Bruteforce

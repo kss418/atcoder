@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc382
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 0 | 4 | 0 |
+| AC Time | 00:01:11 | 00:02:30 | 00:06:20 | 00:13:44 | - | 01:32:59 | - |
+
 ## Solutions
 
 A / Rating : $10$ / Implementation, String

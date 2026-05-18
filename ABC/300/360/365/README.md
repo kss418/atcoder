@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc365
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| AC Time | 00:02:51 | 00:04:48 | 00:11:17 | 00:25:43 | - | - | - |
+
 ## Solutions
 
 A / Rating : $10$ / Implementation, Case_Work

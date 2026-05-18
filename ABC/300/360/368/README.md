@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc368
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 5 | 0 | 3 | 0 | 0 | 0 |
+| AC Time | 00:08:36 | 00:22:53 | 00:27:17 | 01:04:07 | - | - | - |
+
 ## Solutions
 
 A / Rating : $20$ / Implementation

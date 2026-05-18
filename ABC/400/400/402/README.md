@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc402
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 1 | 3 | 0 |
+| AC Time | 00:00:35 | 00:01:56 | 00:05:50 | 00:33:30 | 01:11:16 | - | - |
+
 ## Solutions
 
 A / Rating : $10$ / Implementation

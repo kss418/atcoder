@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc406
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+| AC Time | 00:02:55 | 00:05:27 | 00:38:46 | 00:20:08 | - | 00:57:32 | - |
+
 ## Solutions
 
 A / Rating : $11$ / Case_Work

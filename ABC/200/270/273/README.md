@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc273
 
+## Results
+
+| Problem | A | B | C | D | E | F | G | Ex |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| AC Time | 00:02:34 | 00:13:44 | 01:03:47 | - | - | - | - | - |
+
 ## Solutions
 
 A / Rating : $11$ / Implementation

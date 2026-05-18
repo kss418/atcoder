@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc286
 
+## Results
+
+| Problem | A | B | C | D | E | F | G | Ex |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 6 | 1 | 1 | 0 | 0 | 0 |
+| AC Time | 00:03:52 | 00:07:28 | - | 00:55:39 | - | - | - | - |
+
 ## Solutions
 
 A / Rating : $30$ / Implementation

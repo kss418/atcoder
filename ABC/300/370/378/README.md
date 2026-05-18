@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc378
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| AC Time | 00:01:20 | 00:05:10 | 00:06:36 | 00:21:21 | - | 00:46:30 | - |
+
 ## Solutions
 
 A / Rating : $22$ / Implementation, Sorting

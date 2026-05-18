@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc401
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 6 | 0 | 0 | 0 |
+| AC Time | 00:00:55 | 00:02:47 | 00:05:31 | 01:36:16 | 00:41:47 | - | - |
+
 ## Solutions
 
 A / Rating : $8$ / Case_Work

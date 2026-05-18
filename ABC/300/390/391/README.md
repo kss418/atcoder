@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc391
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| AC Time | 00:00:55 | 00:05:09 | 00:08:38 | 00:21:07 | 00:36:04 | - | - |
+
 ## Solutions
 
 A / Rating : $10$ / Implementation, String

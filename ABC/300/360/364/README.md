@@ -1,5 +1,12 @@
 # https://atcoder.jp/contests/abc364
 
+## Results
+
+| Problem | A | B | C | D | E | F | G |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Wrong | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| AC Time | 00:02:56 | 00:10:57 | 00:16:37 | - | - | - | - |
+
 ## Solutions
 
 A / Rating : $29$ / Implementation
