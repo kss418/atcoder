@@ -2,11 +2,11 @@
 
 ## Solutions
 
-A / Rating : $-1080$ / Math
+A / Rating : $10$ / Math
 
-B / Rating : $-558$ / Implementation
+B / Rating : $36$ / Implementation
 
-C / Rating : $63$ / Greedy, Sorting
+C / Rating : $172$ / Greedy, Sorting
 
 D / Rating : $693$ / DP, Knapsack
 
