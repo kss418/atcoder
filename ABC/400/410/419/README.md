@@ -11,3 +11,5 @@ C / Rating : $259$ / Math
 D / Rating : $251$ / Ad_Hoc
 
 E / Rating : $1298$ / DP
+
+F / Rating : $1726$ / Aho_Corasick, DP, Bit_Mask
