@@ -11,3 +11,5 @@ C / Rating : $489$ / Greedy, Sorting, Prefix_Sum
 D / Rating : $509$ / Binary_Search, Prefix_Sum, Sorting
 
 E / Rating : $1279$ / Trie, DFS
+
+F / Rating : $1332$ / Segment_Tree, Geometry
