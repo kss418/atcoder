@@ -11,3 +11,5 @@ C / Rating : $298$ / Bruteforce
 D / Rating : $683$ / Bruteforce, String
 
 E / Rating : $1038$ / Math, Prefix_Sum, Modular_Inverse
+
+F / Rating : $-$ / DP, Segment_Tree
